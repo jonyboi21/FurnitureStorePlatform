@@ -1,0 +1,22 @@
+# Node
+node_modules/
+build/
+
+# React
+.env
+
+# Java
+target/
+*.log
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Terraform (if present)
+.terraform/
+*.tfstate
+*.tfstate.backup
